@@ -9,3 +9,5 @@ I learn coding.
 ## Education
 
 ## Contact
+
+This is a link to [Google](google.com)
